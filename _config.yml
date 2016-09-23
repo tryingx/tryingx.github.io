@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: 激情为梦想而生
+subtitle: 传递正能量
+welcome_message: 我愿收藏点滴的快乐，经流年的流转积累大大的能量，透过手指的温度，期许岁月静好。
+description: I would like to collect a little happy, by the time the transfer of the accumulation of large energy, through the temperature of the fingers, expected years static good.
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "http://blog.tryingx.com"
 
 permalink: /:year/:month/:title/
 
@@ -33,8 +33,8 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     disqus: vno-jekyll
-    # duoshuo: 
-    
+    # duoshuo:
+
 # Social
 social:
     weibo: onevcat
