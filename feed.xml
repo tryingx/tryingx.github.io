@@ -5,9 +5,30 @@
     <description>我愿收藏点滴的快乐，经流年的流转积累大大的能量，透过手指的温度，期许岁月静好。</description>
     <link>http://blog.tryingx.com/</link>
     <atom:link href="http://blog.tryingx.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Sep 2016 10:24:29 +0800</pubDate>
-    <lastBuildDate>Sat, 24 Sep 2016 10:24:29 +0800</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2016 12:59:58 +0800</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2016 12:59:58 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>火凤燎原——吕布</title>
+        <description>&lt;p&gt;智勇双全，魅力十足，再加上和传统形象反差太大，所以很容易给人一种震撼的感觉。&lt;/p&gt;
+
+&lt;p&gt;但吕布的价值观，很难评价到底是大智还是短视。他蔑视各种世俗的价值观，却又依赖于这些价值观。就如上面祁峰所讲，吕布藐视忠诚，却又有着一群忠诚的部下。当吕布看到陷阵营最后的一次冲锋时，他会想什么，是蔑视高顺的愚蠢，是感于这位忠臣的牺牲，还是陷入对自己价值观的迷惑？吕布”贪生怕死“，却又需要悍不畏死的士兵去给他卖命，下邳被围，从病榻上爬起来的张辽跪在地上请求那些已经做到仁至义尽的士兵不要离开，吕布的价值观这种时候又会对此作何评价。如果吕布的手下人人都像他自己一样“聪明”，那画面太美我不敢想。&lt;/p&gt;
+
+&lt;p&gt;其实吕布的价值观说白了就是一种极端的利己主义，但我们也知道，利己主义在增强自身收益时通常会削减社会的总收益。100个利他主义者生活的世界是美好的；99和利他主义者和1个利己主义者的世界，那个利己主义者会生活得难以想象地美好；100个利己主义者生活的世界，称之为深渊炼狱也不为过。为了不被利己主义者榨干，社会自然而然衍生出的力量，那就是吕布所蔑视，倡导“舍己为人”“忠诚”“悍不畏死”的道德观念。&lt;/p&gt;
+
+&lt;p&gt;吕布的情形，就如同那个生活在99个利他主义者旁边的利己主义者。他蔑视忠诚，却又享受着部下对其的忠诚。他贪生怕死，却又依赖着不会贪生怕死的士兵。他嘲弄诺言，却又善于利用他人对其的信任。但吕布自身却好像没有认清这一些，否则他对世人的态度就应该是“天下愚者皆为我所驱”，而不是“众生皆醉我独醒”。一个人们醒来对其没有任何好处的人，怎么会去感慨众生都醉得这么难看。而一个依赖于众生的“愚蠢”，却又感叹嘲笑众生“愚蠢”的人，这又是一种怎样的情操。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Sep 2016 08:00:00 +0800</pubDate>
+        <link>http://blog.tryingx.com/%E4%B8%89%E5%9B%BD/2016/09/24/lvbu.html</link>
+        <guid isPermaLink="true">http://blog.tryingx.com/%E4%B8%89%E5%9B%BD/2016/09/24/lvbu.html</guid>
+        
+        <category>文学</category>
+        
+        
+        <category>三国</category>
+        
+      </item>
     
       <item>
         <title>Hello World - Vno</title>
@@ -17,27 +38,28 @@
 
 &lt;h4 id=&quot;usage&quot;&gt;Usage&lt;/h4&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ git clone https://github.com/onevcat/vno-jekyll.git your_site
-$ cd your_site
-$ bundler install
-$ bundler exec jekyll serve
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;git clone https://github.com/onevcat/vno-jekyll.git your_site
+&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;your_site
+&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;bundler install
+&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;bundler &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Your site with &lt;code&gt;Vno Jekyll&lt;/code&gt; enabled should be accessible in http://127.0.0.1:4000.&lt;/p&gt;
+&lt;p&gt;Your site with &lt;code class=&quot;highlighter-rouge&quot;&gt;Vno Jekyll&lt;/code&gt; enabled should be accessible in http://127.0.0.1:4000.&lt;/p&gt;
 
 &lt;p&gt;For more information about Jekyll, please visit &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll’s site&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;configuration&quot;&gt;Configuration&lt;/h4&gt;
 
-&lt;p&gt;All configuration could be done in &lt;code&gt;_config.yml&lt;/code&gt;. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.&lt;/p&gt;
+&lt;p&gt;All configuration could be done in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.&lt;/p&gt;
 
 &lt;h4 id=&quot;background-image-and-avatar&quot;&gt;Background image and avatar&lt;/h4&gt;
 
-&lt;p&gt;You could replace the background and avatar image in &lt;code&gt;assets/images&lt;/code&gt; folder to change them.&lt;/p&gt;
+&lt;p&gt;You could replace the background and avatar image in &lt;code class=&quot;highlighter-rouge&quot;&gt;assets/images&lt;/code&gt; folder to change them.&lt;/p&gt;
 
 &lt;h4 id=&quot;sites-using-vno&quot;&gt;Sites using Vno&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://onevcat.com&quot;&gt;My blog&lt;/a&gt; is using &lt;code&gt;Vno Jekyll&lt;/code&gt; as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://onevcat.com&quot;&gt;My blog&lt;/a&gt; is using &lt;code class=&quot;highlighter-rouge&quot;&gt;Vno Jekyll&lt;/code&gt; as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -63,32 +85,8 @@ $ bundler exec jekyll serve
 &lt;p&gt;Great thanks to &lt;a href=&quot;https://github.com/daleanthony&quot;&gt;Dale Anthony&lt;/a&gt; and his &lt;a href=&quot;https://github.com/daleanthony/uno&quot;&gt;Uno&lt;/a&gt;. Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as &lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International&lt;/a&gt;. See the link for more information.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Feb 2016 14:32:24 +0800</pubDate>
-        <link>http://blog.tryingx.com/2016/02/hello-world-vno/</link>
-        <guid isPermaLink="true">http://blog.tryingx.com/2016/02/hello-world-vno/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Sample Post</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def print_hi(name)
-  puts &amp;quot;Hi, #{name}&amp;quot;
-end
-print_hi(&amp;#39;Tom&amp;#39;)
-#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 15 Feb 2016 14:32:24 +0800</pubDate>
-        <link>http://blog.tryingx.com/2016/02/sample-post/</link>
-        <guid isPermaLink="true">http://blog.tryingx.com/2016/02/sample-post/</guid>
+        <link>http://blog.tryingx.com/2016/02/16/hello-world-vno.html</link>
+        <guid isPermaLink="true">http://blog.tryingx.com/2016/02/16/hello-world-vno.html</guid>
         
         
       </item>
